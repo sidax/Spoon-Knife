@@ -1,2 +1,2 @@
-Favorite language: Rust
+Favorite language: Rust and JavaScript
 Status: learning Git
