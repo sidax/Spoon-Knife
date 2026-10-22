@@ -1,0 +1,2 @@
+Favorite language: Python
+Status: learning Git
